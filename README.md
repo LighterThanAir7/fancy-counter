@@ -8,8 +8,8 @@ A simple counter with +/− buttons to increase or decrease the value, plus a re
 ![screenshot.avif](screenshot.avif)
 
 ## Links
-- Solution URL: Gitgub repo
-- Live site URL: 
+- Solution URL: [Gitgub repo](https://github.com/LighterThanAir7/fancy-counter)
+- Live site URL: [Fancy Counter](https://lighterthanair7.github.io/fancy-counter/)
 
 ## Built with
 - React + Vite
